@@ -35,6 +35,31 @@ header h1 {
   flex:1;
 }
 
+/*about section*/
+.about-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-details {
+  text-align: left;
+}
+
+.about-details h3{
+  text-align: center;
+}
+
+.profile-image {
+  margin-right: 20px;
+  border-radius: 50%;
+  max-width: 200px;
+  height: auto;
+
+}
+
+
+
 /* Containers */
 div {
   background-color: #eae2b7;
